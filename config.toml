@@ -11,11 +11,11 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Saikat Sengupta"
-  info = "Software Engineer"
+  info = ["Software Engineer", "Open Source Contributor"]
   description = "Saikat's personal blog"
   keywords = "blog,developer,personal"
-  avatarurl = "./avatar.png"
-
+  avatarurl = "images/avatar.png"
+  dateFormat = "January 2, 2008"
   since = 2022
   enableTwemoji = true
   colorScheme = "auto"
