@@ -42,3 +42,8 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-linkedin fa-2x"
   weight = 3
   url = "https://www.linkedin.com/in/saikatsengupta/"
+  
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
