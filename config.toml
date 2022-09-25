@@ -1,4 +1,48 @@
 baseURL = 'https://saikat.vercel.app/'
 languageCode = 'en-us'
+defaultcontentlanguage = "en"
 title = 'Saikat Sengupta'
 theme = "hugo-coder"
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  author = "Saikat Sengupta"
+  info = "Software Engineer"
+  description = "Saikat's personal blog"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+
+  since = 2022
+  enableTwemoji = true
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/saikatsgupta/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/saikatsgupta/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
