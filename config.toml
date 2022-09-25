@@ -15,7 +15,6 @@ pygmentscodefencesguesssyntax = true
   description = "Saikat's personal blog"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.png"
-  dateFormat = "January 2, 2008"
   since = 2022
   enableTwemoji = true
   colorScheme = "auto"
