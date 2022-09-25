@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2022-09-25T07:40:12Z
-title = "Sample Post"
+title = "About"
 description = ""
 slug = ""
 authors = []
@@ -12,11 +12,3 @@ series = []
 +++
 
 ## Hello, World!
-
-```java
-public class Sample {
-    public static void main() {
-        // TODO
-    }
-}
-```
