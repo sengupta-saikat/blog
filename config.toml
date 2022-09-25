@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
   info = "Software Engineer"
   description = "Saikat's personal blog"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "./avatar.png"
 
   since = 2022
   enableTwemoji = true
