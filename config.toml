@@ -37,8 +37,3 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/saikatsgupta/"
-
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
