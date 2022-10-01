@@ -27,7 +27,7 @@ pygmentscodefencesguesssyntax = true
   author = "authors"
 
 [[params.social]]
-  name = "Github"
+  name = "GitHub"
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/saikatsgupta/"
@@ -45,7 +45,12 @@ pygmentscodefencesguesssyntax = true
   name = "StackOverflow"
   icon = "fa fa-stack-overflow fa-2x"
   weight = 4
-  url = "https://stackoverflow.com/users/1594823/"  
+  url = "https://stackoverflow.com/users/1594823/"
+[[params.social]]
+  name = "GitLab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 5
+  url = "https://gitlab.com/saikatsgupta/"  
   
 [[menu.main]]
   name = "Blog"
