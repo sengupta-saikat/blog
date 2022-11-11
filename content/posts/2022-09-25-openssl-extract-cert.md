@@ -2,13 +2,9 @@
 draft = false
 date = 2022-09-25T07:40:12Z
 title = "Extract a Certificate by Using OpenSSL"
-description = ""
-slug = ""
 authors = ["Saikat"]
 tags = ["openssl", "certificate"]
 categories = [""]
-externalLink = ""
-series = []
 +++
 
 ## Extract a Certificate by Using OpenSSL

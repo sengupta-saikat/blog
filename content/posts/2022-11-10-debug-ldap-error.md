@@ -2,9 +2,6 @@
 draft = false
 date = 2022-11-10T23:13:46Z
 title = "Debug the LDAP Error Code"
-description = "Debug the LDAP Error Code"
-slug = "debug-ldap-error"
-externalLink = ""
 authors = ["Saikat"]
 tags = ["ldap", "python", "active-directory"]
 categories = ["TIL"]
