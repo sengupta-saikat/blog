@@ -1,4 +1,4 @@
 theme = "congo"
 baseURL = 'https://saikat.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Site'
