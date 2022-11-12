@@ -2,7 +2,6 @@ baseURL = 'https://saikat.vercel.app/'
 languageCode = 'en-us'
 defaultcontentlanguage = "en"
 title = 'Saikat'
-theme = "hugo-coder"
 paginate = 20
 
 pygmentsstyle = "bw"
