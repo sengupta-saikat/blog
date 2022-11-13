@@ -7,15 +7,15 @@ rtl = false
 
 title = "Saikat"
 # logo = "img/logo.jpg"
-description = "My awesome website"
-copyright = "Copy, _right?_ :thinking_face:"
+description = "My weblog"
+copyright = "2022 :smiling_face: Saikat Sengupta"
 
 dateFormat = "2-Jan-2006"
 
 [author]
   name = "Saikat"
-  # image = "img/author.jpg"
-  headline = "I'm only human"
+  image = "img/author.jpg"
+  headline = "Software Engineer"
   bio = "A little bit about you"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
