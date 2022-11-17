@@ -10,7 +10,7 @@ categories: ["TIL"]
 ---
 
 ## Overview
-I recently had 
+TODO
 
 ## Code
 
@@ -52,4 +52,5 @@ if __name__ == '__main__':
 ```
 
 ## Conclusion
-So this is it
+TODO
+[Error Codes](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-)
