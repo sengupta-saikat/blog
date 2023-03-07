@@ -1,3 +1,12 @@
+---
+title: "Guitar Chords - শহরের উষ্ণতম দিনে"
+author: ["Saikat"]
+date: 2023-03-07
+draft: false
+description: "Guitar Chords - শহরের উষ্ণতম দিনে"
+tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
+categories: ["guitar"]
+---
 (Am) শহরের উষ্ণতম দিনে
 পিচগলা-আ (G) রোদ্দুরে 
 বৃষ্টির (F) বিশ্বাস
