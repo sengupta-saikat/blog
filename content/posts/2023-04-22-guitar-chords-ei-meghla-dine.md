@@ -1,3 +1,12 @@
+---
+title: "Guitar Chords - এই মেঘলা দিনেে"
+author: ["Saikat"]
+date: 2023-04-22
+draft: false
+description: "Guitar Chords - এই মেঘলা দিনেে"
+tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
+categories: ["guitar"]
+---
 এই মেঘলা দিনে একলা
 ঘরে থাকেনাতো মন,
 কাছে যাবো কবে পাবো
