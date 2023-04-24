@@ -1,9 +1,9 @@
 ---
-title: "Guitar Chords - এই মেঘলা দিনেে"
+title: "Guitar Chords - এই মেঘলা দিনে"
 author: ["Saikat"]
 date: 2023-04-22
 draft: false
-description: "Guitar Chords - এই মেঘলা দিনেে"
+description: "Guitar Chords - এই মেঘলা দিনে"
 tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
