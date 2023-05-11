@@ -1,4 +1,12 @@
-
+---
+title: "Guitar Chords - সে যে বসে আছে একা একাে"
+author: ["Saikat"]
+date: 2023-05-06
+draft: false
+description: "Guitar Chords - সে যে বসে আছে একা একা"
+tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
+categories: ["guitar"]
+---
 সে যে বসে আছে একা একা\
 রঙিন স্বপ্ন তার বুনতে,\
 সে যে চেয়ে আছে ভরা চোখে\
