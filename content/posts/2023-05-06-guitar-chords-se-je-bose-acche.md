@@ -1,5 +1,5 @@
 ---
-title: "Guitar Chords - সে যে বসে আছে একা একাে"
+title: "Guitar Chords - সে যে বসে আছে"
 author: ["Saikat"]
 date: 2023-05-06
 draft: false
