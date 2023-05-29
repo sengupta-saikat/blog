@@ -7,6 +7,9 @@ description: "Guitar Chords - এইটা তোমার গান"
 tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
+
+{{< youtube "kpq572hbVhY" >}}
+
 এইটা তোমার গান\
 তুমি লোডশেডিং এ চাঁদের আলোর স্বর,\
 তুমি জ্বরের শেষে সূর্য ধোয়া ঘর।\
