@@ -7,6 +7,9 @@ description: "Guitar Chords - এই মেঘলা দিনে"
 tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
+
+{{< youtube "-eaDa50epZM" >}}
+
 এই `D`মেঘলা দিনে `G`একলা\
 ঘরে থাকেনাতো `A`মন,\
 কাছে `G`যাবো কবে `D`পাবো\
