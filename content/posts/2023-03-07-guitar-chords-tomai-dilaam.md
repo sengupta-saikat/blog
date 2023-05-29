@@ -8,6 +8,9 @@ tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
 
+{{< youtube "O24OpHkchgE" >}}
+{{< youtube "BpaZSLfr4H0" >}}
+
 (Am) শহরের উষ্ণতম দিনে\
 পিচগলা-আ (G) রোদ্দুরে\
 বৃষ্টির (F) বিশ্বাস\
