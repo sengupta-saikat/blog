@@ -7,6 +7,9 @@ description: "Guitar Chords - সে যে বসে আছে একা এক
 tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
+
+{{< youtube "d-ZXcLb3vbI" >}}
+
 সে যে বসে আছে একা একা\
 রঙিন স্বপ্ন তার বুনতে,\
 সে যে চেয়ে আছে ভরা চোখে\
