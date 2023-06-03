@@ -1,3 +1,15 @@
+---
+title: "Guitar Chords - নীল সাগরে"
+author: ["Saikat"]
+date: 2023-06-03
+draft: false
+description: "Guitar Chords - নীল সাগরে"
+tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
+categories: ["guitar"]
+---
+
+{{< youtube "C396EinEs3Y" >}}
+
 নীল সাগরে\
 অতল গভীরে\
 গাঙচিক ওড়ে আর কত গান গায়\
@@ -29,4 +41,3 @@
 হায় হায় দিন যায়\
 রাত যায় সব যায়\
 তবু আমি বসে থাকি তোমার আশায়
-
