@@ -8,7 +8,7 @@ tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
 
-{{< youtube "7nl0pH0gmcg" >}}
+{{< youtube "tbi2eYL89Uk" >}}
 
 ```
 Dm        C
