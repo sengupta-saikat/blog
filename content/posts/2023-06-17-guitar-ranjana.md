@@ -8,7 +8,7 @@ tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
 categories: ["guitar"]
 ---
 
-{{< youtube "B0ECFWqrJSQ" >}}
+{{< youtube "7nl0pH0gmcg" >}}
 
 ```
 পাড়ায় ঢুকলে ঠ্যাং খোড়া করে দেবো
