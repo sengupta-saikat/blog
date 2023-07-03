@@ -1,4 +1,15 @@
+---
+title: "Guitar Chords - আলাদা আলাদা"
+author: ["Saikat"]
+date: 2023-07-01
+draft: false
+description: "Guitar Chords - আলাদা আলাদা"
+tags: ["acoustic", "guitar", "bangla", "bengali", "song", "lyrics"]
+categories: ["guitar"]
+---
 
+{{< youtube "K03SZoDZN6c" >}}
+```
      Bm          A7
 আমি আবার ক্লান্ত পথচারী
     G     Em      Bm
@@ -62,3 +73,4 @@ Bm         A             G
 আলগা থেকে তাই, খসে পড়েছি প্রায়
 G        Bm    A      Bm
 কেমন যেন আলাদা আলাদা সব
+```
