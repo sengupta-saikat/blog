@@ -2,7 +2,7 @@
 title: "Automatically Copy Advent-of-Code Sample Data"
 author: ["Saikat"]
 date: 2022-12-12
-draft: false
+draft: true
 description: "Tampermonkey Userscript to Automatically Copy Advent-of-Code Sample Data"
 tags: ["advent-of-code", "userscript", "tampermonkey"]
 categories: ["TIL"]
