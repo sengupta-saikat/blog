@@ -2,7 +2,7 @@
 title: "The Git Credential Plugin Bug in Jenkins"
 author: ["Saikat"]
 date: 2022-11-18
-draft: false
+draft: true
 description: "The Git Credential Plugin Bug in Jenkins"
 tags: ["git", "jenkins", "groovy"]
 categories: ["TIL"]
