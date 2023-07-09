@@ -1,3 +1,14 @@
+---
+title: "Guitar Chords - क्या मुझे प्यार है"
+author: ["Saikat"]
+date: 2023-07-08
+draft: false
+description: "Guitar Chords - क्या मुझे प्यार है"
+tags: ["acoustic", "guitar", "hindi", "song", "lyrics"]
+categories: ["guitar"]
+---
+
+{{< youtube "Gg6NMU4ivXM" >}}
 
 ```
 क्यूँ आज कल नींद कम ख़्वाब ज्यादा है
