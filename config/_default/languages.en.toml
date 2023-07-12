@@ -8,7 +8,7 @@ rtl = false
 title = "Saikat"
 # logo = "img/logo.jpg"
 description = "My weblog"
-copyright = "© 2022 Saikat Sengupta"
+copyright = "© 2023 Saikat Sengupta"
 
 dateFormat = "2-Jan-2006"
 
@@ -56,7 +56,7 @@ dateFormat = "2-Jan-2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-    { twitter = "https://twitter.com/saikatsgupta" },
+  #   { twitter = "https://twitter.com/saikatsgupta" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   ]
